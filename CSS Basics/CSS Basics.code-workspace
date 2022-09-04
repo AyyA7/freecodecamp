@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../2022.03_Kodluyoruz & Front-End Bootcampleri Hazırlık Programı/3.hafta/CSS-2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CSS-2"
+	}
+}
